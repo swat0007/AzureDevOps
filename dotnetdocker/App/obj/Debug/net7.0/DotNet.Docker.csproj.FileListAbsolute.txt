@@ -1,0 +1,15 @@
+/home/neto/AzureDevOps/dotnetdocker/App/bin/Debug/net7.0/DotNet.Docker
+/home/neto/AzureDevOps/dotnetdocker/App/bin/Debug/net7.0/DotNet.Docker.deps.json
+/home/neto/AzureDevOps/dotnetdocker/App/bin/Debug/net7.0/DotNet.Docker.runtimeconfig.json
+/home/neto/AzureDevOps/dotnetdocker/App/bin/Debug/net7.0/DotNet.Docker.dll
+/home/neto/AzureDevOps/dotnetdocker/App/bin/Debug/net7.0/DotNet.Docker.pdb
+/home/neto/AzureDevOps/dotnetdocker/App/obj/Debug/net7.0/DotNet.Docker.csproj.AssemblyReference.cache
+/home/neto/AzureDevOps/dotnetdocker/App/obj/Debug/net7.0/DotNet.Docker.GeneratedMSBuildEditorConfig.editorconfig
+/home/neto/AzureDevOps/dotnetdocker/App/obj/Debug/net7.0/DotNet.Docker.AssemblyInfoInputs.cache
+/home/neto/AzureDevOps/dotnetdocker/App/obj/Debug/net7.0/DotNet.Docker.AssemblyInfo.cs
+/home/neto/AzureDevOps/dotnetdocker/App/obj/Debug/net7.0/DotNet.Docker.csproj.CoreCompileInputs.cache
+/home/neto/AzureDevOps/dotnetdocker/App/obj/Debug/net7.0/DotNet.Docker.dll
+/home/neto/AzureDevOps/dotnetdocker/App/obj/Debug/net7.0/refint/DotNet.Docker.dll
+/home/neto/AzureDevOps/dotnetdocker/App/obj/Debug/net7.0/DotNet.Docker.pdb
+/home/neto/AzureDevOps/dotnetdocker/App/obj/Debug/net7.0/DotNet.Docker.genruntimeconfig.cache
+/home/neto/AzureDevOps/dotnetdocker/App/obj/Debug/net7.0/ref/DotNet.Docker.dll

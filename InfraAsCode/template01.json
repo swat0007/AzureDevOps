@@ -1,0 +1,36 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentTemplate.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {},
+    "functions": [],
+    "variables": {},
+    "resources": [
+        {
+            "type": "Microsoft.Web/serverfarms",
+            "apiVersion": "2022-03-01",
+            "name": "plan195423777",
+            "location": "[resourceGroup().location]",
+             "sku": {
+                "name": "F1",
+                "capacity":1
+            },
+            "properties":{
+                "name":"plan195423777"
+            }
+        },
+        {
+            "type": "Microsoft.Web/sites",
+            "apiVersion": "2022-03-01",
+            "name": "newapp9948486",
+            "location": "[resourceGroup().location]",
+            "properties":{
+                "name":"newapp9948486string",
+                "serverFarmId":"[resourceId('Microsoft.Web/serverfarms','plan195423777')]"
+            },
+            "dependsOn":[
+              "[resourceId('Microsoft.Web/serverfarms','plan195423777')]"  
+            ]      
+        }
+    ],
+    "outputs": {}
+}

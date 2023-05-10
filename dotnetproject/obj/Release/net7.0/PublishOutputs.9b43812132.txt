@@ -1,0 +1,7 @@
+/home/neto/AzureDevOps/dotnetproject/bin/Release/net7.0/publish/dotnetproject
+/home/neto/AzureDevOps/dotnetproject/bin/Release/net7.0/publish/appsettings.Development.json
+/home/neto/AzureDevOps/dotnetproject/bin/Release/net7.0/publish/appsettings.json
+/home/neto/AzureDevOps/dotnetproject/bin/Release/net7.0/publish/dotnetproject.dll
+/home/neto/AzureDevOps/dotnetproject/bin/Release/net7.0/publish/dotnetproject.deps.json
+/home/neto/AzureDevOps/dotnetproject/bin/Release/net7.0/publish/dotnetproject.runtimeconfig.json
+/home/neto/AzureDevOps/dotnetproject/bin/Release/net7.0/publish/dotnetproject.pdb
